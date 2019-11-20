@@ -12,6 +12,18 @@ You can download it [here.](https://drive.google.com/open?id=169yKntAy8kqPKU0Crl
 
 If it's helpful for you, please give it a star. We gonna release albert4vn ASAP. Keep in touch.
 
+``` bash
+
+***** Eval results *****
+global_step = 20000
+loss = 0.8570036
+masked_lm_accuracy = 0.7956194
+masked_lm_loss = 0.8863622
+next_sentence_accuracy = 0.98625
+next_sentence_loss = 0.04267995
+
+```
+
 ### Things to improve
 
 - Train bert from scartch for vietnamese tokens
