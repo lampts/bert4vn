@@ -26,10 +26,13 @@ next_sentence_loss = 0.04267995
 
 ### Zalo AI Challenge 2019
 
-[leaderboard](data/final_lb.png)
+![leaderboard](data/final_lb.png)
+
 - First place solution (using this checkpoint): https://github.com/ngoanpv/zaloqa2019
 - 4th place also using this checkpoint, source code is not available yet.
-[winner](data/winner.png)
+
+![winner](data/winner.jpg)
+
 ### ALBERT for vietnamese
 
 - Base/Large architecture on vi-wiki (~1m steps): https://github.com/ngoanpv/albert_vi
