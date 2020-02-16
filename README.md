@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/license/lampts/bert4vn)
+![](https://img.shields.io/github/repo-size/lampts/bert4vn)
 # BERT for Vietnamese
 
 "The brain doesn't have to model the world. The world is its own model." — Hubert Dreyfus (Berkeley Philosopher)
