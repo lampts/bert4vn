@@ -24,7 +24,7 @@ next_sentence_loss = 0.04267995
 
 ```
 
-### Zalo AI Challenge 2019
+## Zalo AI Challenge 2019
 
 ![leaderboard](data/final_lb.png)
 
@@ -33,13 +33,17 @@ next_sentence_loss = 0.04267995
 
 ![winner](data/winner.jpg)
 
-### ALBERT for vietnamese
+## ALBERT for vietnamese
 
 - Base/Large architecture on vi-wiki (~1m steps): https://github.com/ngoanpv/albert_vi
 - 
 
-### References
+## References
 
 - https://github.com/google-research/bert/blob/master/multilingual.md
 - https://www.tensorflow.org/tfrc
 - https://news.zing.vn/zalo-ai-summit-ve-dep-cua-ai-khong-chi-den-tu-thuat-toan-post1025637.html
+
+## License
+
+This is a MIT license.
